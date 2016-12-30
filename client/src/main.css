@@ -1,0 +1,37 @@
+.home-title {
+  background-color: #085d82;
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 15vh;
+  text-align: center;
+  line-height: 15vh;
+}
+.home {
+  text-decoration: none;
+  color: #fff;
+}
+.post-card {
+  display: block;
+  width: 90vw;
+  margin: 0 auto;
+  text-decoration: none;
+  text-align: center;
+  height: 8vh;
+  line-height: 8vh;
+  font-size: 1.5rem;
+  margin-top: 2vh;
+  color: #085d82;
+  box-shadow: rgba(0, 0, 0, 0.117647) 0px 1px 6px,
+  rgba(0, 0, 0, 0.117647) 0px 1px 4px;
+}
+.post-title {
+  margin-top: 5vh;
+  text-align: center;
+  color: #085d82;
+}
+.post-content {
+  color: #085d82;
+  font-size: 16px;
+  margin-top: 5vh;
+}
